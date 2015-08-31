@@ -5,4 +5,4 @@
 
 ### XBOOST
 
-https://github.com/vipito/xgboost/edit/master/doc/index.md
+https://github.com/vipito/xgboost/blob/master/doc/index.md
